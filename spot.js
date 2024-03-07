@@ -13,7 +13,7 @@ let songs =[
     {songName : "Treat You Better", fiePath: "2.mp3", coverPath: "shawn.webp" },
     {songName : "Senorita", fiePath: "3.mp3", coverPath: "shawn.webp" },
     {songName : "Stiches", fiePath: "4.mp3", coverPath: "shawn.webp" },
-    {songName : "Ther's nothing ", fiePath: "5.mp3", coverPath: "shawn.webp" },
+    {songName : "Ther's nothing holdin me back ", fiePath: "5.mp3", coverPath: "shawn.webp" },
 ]
    songItems.forEach((element,i) => {
        //console.log(element,i);
